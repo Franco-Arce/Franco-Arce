@@ -125,7 +125,7 @@
 </div>
 <br>
 
-##<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Courses</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Courses</b>
 <br>
 
 | Topic                                             | Start          | End            | Done  |
