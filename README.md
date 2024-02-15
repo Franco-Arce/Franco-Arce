@@ -143,13 +143,13 @@
 
 | Topic                                             | Start          | End            | Done  |
 |---------------------------------------------------|----------------|----------------|-------|
-| Foundations: Data, Data Everywhere               | October 2022   | February 2024  | ✅     |
-| Ask Questions to Make Data-Driven Decisions      | January 2023   | February 2024  | ✅     |
-| Prepare Data For Exploration                     | March 2023     | January 2024   | ✅     |
-| Big Data                                         | May 2023       | January 2024   | ✅     |
-| Initial Course - Data Analytics                  | September 2023 | December 2023  | ✅     |
-| Introduction to Data Science                     | October 2023   | January 2024   | ✅     |
-| Data Analysis with Python                        | December 2023  | January 2024   | ✅     |
+| Foundations: Data, Data Everywhere               | February 2024   | February 2024  | ✅     |
+| Ask Questions to Make Data-Driven Decisions      | February 2024   | February 2024  | ✅     |
+| Prepare Data For Exploration                     | December 2023   | January 2024   | ✅     |
+| Big Data                                         | January 2024    | January 2024   | ✅     |
+| Initial Course - Data Analytics                  | December 2023   | December 2023  | ✅     |
+| Introduction to Data Science                     | January 2024    | January 2024   | ✅     |
+| Data Analysis with Python                        | Decembember 2023| January 2024   | ✅     |
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
