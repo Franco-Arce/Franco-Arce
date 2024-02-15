@@ -1,4 +1,4 @@
-.
+
 <h1 align="center"><b>Hi , I'm Franco Arce </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
@@ -123,6 +123,20 @@
 	
 </ul>
 </div>
+<br>
+
+##<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Courses</b>
+<br>
+
+| Topic                                             | Start          | End            | Done  |
+|---------------------------------------------------|----------------|----------------|-------|
+| Foundations: Data, Data Everywhere               | October 2022   | December 2022  | ✅     |
+| Ask Questions to Make Data-Driven Decisions      | January 2023   | February 2023  | ✅     |
+| Prepare Data For Exploration                     | March 2023     | June 2023      | ✅     |
+| Big Data                                         | May 2023       | August 2023    | ✅     |
+| Initial Course - Data Analytics                  | September 2023 | October 2023   | ✅     |
+| Introduction to Data Science                     | October 2023   | December 2023  | ✅     |
+| Data Analysis with Python                        | December 2023  | January 2024   | ✅     |
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
