@@ -86,7 +86,9 @@
 <div align="center">
 
 <a href="https://github.com/Franco-Arce/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Franco-Arce&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+
+<img src="https://camo.githubusercontent.com/e9c6ec541fa52d829ec244481e396aee6384433d361b9e2782dcc08904f4b6c6/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6970363831267468656d653d64656661756c74" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Franco-Arce&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Franco-Arce&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Franco-Arce"/>
 
 </a>
