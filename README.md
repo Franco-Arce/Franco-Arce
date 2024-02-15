@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://github.com/Franco-Arce/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=&diamond;Franco+Arce&diamond;++;Self-taught+.NET+Developer;Data+Analyst;Active+Learner/Researcher,;Love+to+learn+new+stuffs"></a>
 </p>
-![WhatsApp Image 2024-02-10 at 15 48 30](https://github.com/Franco-Arce/Franco-Arce/assets/85026453/790096e6-bc83-4619-8fda-d7c28bb3ad3f)
 
 
 <br>
