@@ -18,7 +18,7 @@
 <br>
 
 - A passionate Self-taught Data Analyst
-- Learning new skills about the amazing spiderman´s ata world
+- Learning new skills about the Data world
 - Currently learning Web Development by Self
 - Personal Portfolio [link](https://portfolio-francoarce.netlify.app/#home)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/14wusdQl7rcW4Ovq3wsfOajXCgSg8ZZnx/view)
