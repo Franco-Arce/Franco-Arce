@@ -6,7 +6,7 @@
 
 - 🌠 A passionate Self-taught Data Analyst.
 - 👨‍🎓 Learning new skills about the Data world.
-- 💻 Currently learning Web Development by Self 
+- 💻 Currently learning Software Development in ISPC 
 - 📫 Personal Portfolio 📔 [link](https://portfolio-francoarce.netlify.app/#home)
 - ⚡ I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/drive/folders/1VTLrDT950xplg3BGVYDpD4fjyXQOZoxl) 📎
 
