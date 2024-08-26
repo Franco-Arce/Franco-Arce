@@ -98,10 +98,7 @@
 -----
 
 <br>
-<br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/Franco-Arce/Franco-Arce/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
 
 <div>
   <h3>📱 Social Medias:</h3><br>
