@@ -1,27 +1,15 @@
 
 <h1 align="center"><b>Hi , I'm Franco Arce </b><img src="hhttps://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"35"></h1>
 <!--  -->
-<p align="center">
-  <a href="https://github.com/Franco-Arce/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=&diamond;Franco+Arce&diamond;++;Self-taught+.NET+Developer;Data+Analyst;Active+Learner/Researcher,;Love+to+learn+new+stuffs"></a>
-</p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Franco-Arce&label=Views&color=blue&style=plastic" alt="Franco-Arce" /> </p>
 
-<br>
+- 🌠 A passionate Self-taught Data Analyst.
+- 👨‍🎓 Learning new skills about the Data world.
+- 💻 Currently learning Web Development by Self 
+- 📫 Personal Portfolio 📔 [link](https://portfolio-francoarce.netlify.app/#home)
+- ⚡ I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/drive/folders/1VTLrDT950xplg3BGVYDpD4fjyXQOZoxl) 📎
 
-
-
-	
-## <picture><img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width = 250px></picture>
-
-<br>
-
-- A passionate Self-taught Data Analyst
-- Learning new skills about the Data world
-- Currently learning Web Development by Self
-- Personal Portfolio [link](https://portfolio-francoarce.netlify.app/#home)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/14wusdQl7rcW4Ovq3wsfOajXCgSg8ZZnx/view)
 
 <br><br>
 
@@ -117,27 +105,14 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/Franco-Arce/Franco-Arce/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align='left'>
 
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/franco-arce-37a83a220/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Franco-Arce-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
+<div>
+  <h3>📱 Social Medias:</h3><br>
+    <a href="https://www.linkedin.com/in/franco-arce-37a83a220/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
+    <a href="https://www.instagram.com/franc07_/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
 
 <br>
 
-<li>
-<a href="mailto:francogonzaloarce@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Franco-Arce-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Courses</b>
 <br>
@@ -178,4 +153,11 @@
 Credit: [Franco Arce](https://github.com/Franco-Arce)
 
 Last Edited on: 15/02/2024
+
+
+
+
+
+
+
 
