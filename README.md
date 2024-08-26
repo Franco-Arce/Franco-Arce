@@ -8,7 +8,7 @@
 - 👨‍🎓 Learning new skills about the Data world.
 - 💻 Currently learning Software Development in ISPC 
 - 📫 Personal Portfolio 📔 [link](https://portfolio-francoarce.netlify.app/#home)
-- ⚡ I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/drive/folders/1VTLrDT950xplg3BGVYDpD4fjyXQOZoxl) 📎
+- ⚡ I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1T19d3QGRN4Y7phcX0LC1Rr6wiF9PCn75/view?usp=sharing) 📎
 
 
 <br><br>
